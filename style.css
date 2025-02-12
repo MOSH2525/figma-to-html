@@ -37,6 +37,9 @@
      --site-max-width: 1300px;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 
 li{
     list-style: none;
